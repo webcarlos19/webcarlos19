@@ -4,7 +4,7 @@
 
 ### AI Full-Stack Engineer · Building useful things for the web and beyond
 
-I’m Carlos, an engineer at **WebCarlos**, based in Brazil. I enjoy turning ideas into thoughtful products—from AI-powered experiences and web interfaces to developer tools and desktop apps.
+I’m Carlos, based in Brazil. I enjoy turning ideas into thoughtful products—from AI-powered experiences and web interfaces to developer tools and desktop apps.
 
 [![Website](https://img.shields.io/badge/Website-webcarlos.com.br-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://webcarlos.com.br)
 [![GitHub](https://img.shields.io/badge/GitHub-%40webcarlos19-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/webcarlos19)
